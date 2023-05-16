@@ -32,6 +32,9 @@ li {
 #humidity {
   font-size: 30px;
 }
-.link {
+.github:link {
   text-decoration: none;
+}
+.github:hover {
+  color: blueviolet;
 }
